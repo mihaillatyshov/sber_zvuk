@@ -1,0 +1,2 @@
+docker build -t sber_zvuk .
+docker run -it --rm -p 3444:3444 --name sber_zvuk sber_zvuk

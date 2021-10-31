@@ -1,0 +1,27 @@
+{
+	'ResponseMetadata': 
+	{
+		'RequestId': '0000017CD38C30AC9012C492447A4DDD', 
+		'HostId': '32AAAQAAEAABAAAQAAEAABAAAQAAEAABCSgsJQ5n1F/pUTsMWLICdQBMAYv9HlPR', 
+		'HTTPStatusCode': 200, 
+		'HTTPHeaders': 
+		{
+			'server': 'OBS', 
+			'x-reserved': 'amazon, aws and amazon web services are trademarks or registered trademarks of Amazon Technologies, Inc', 
+			'x-amz-request-id': '0000017CD38C30AC9012C492447A4DDD', 
+			'accept-ranges': 'bytes', 
+			'etag': '"9113b8baf90fd6674c6fe9cb922b48a0"', 
+			'last-modified': 'Sat,
+			30 Oct 2021 23: 32: 32 GMT', 'content-type': 'binary/octet-stream', 'x-amz-id-2': '32AAAQAAEAABAAAQAAEAABAAAQAAEAABCSgsJQ5n1F/pUTsMWLICdQBMAYv9HlPR', 'date': 'Sat,
+			30 Oct 2021 23: 32: 32 GMT', 'content-length': '5'
+		}, 
+		'RetryAttempts': 0
+	},
+	'AcceptRanges': 'bytes', 
+	'LastModified': datetime.datetime(2021, 10, 30,	23,	32,	32, tzinfo=tzutc()), 
+	'ContentLength': 5, 
+	'ETag': '"9113b8baf90fd6674c6fe9cb922b48a0"', 
+	'ContentType': 'binary/octet-stream', 
+	'Metadata': {}, 
+	'Body': <StreamingBody at 0x000001F30D541300 for ClientResponseContentProxy at 0x000001F30D5412C0>
+}
